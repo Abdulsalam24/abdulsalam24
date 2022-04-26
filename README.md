@@ -1,4 +1,7 @@
+
+
 <h1 align="center">Hi 👋, I'm Mohammed Abdulsalam</h1>
+<img src='./abdavatar' alt='my avatar'>
 <h3 align="center">I am a front-end developer with two years of experience .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulsalam24&label=Profile%20views&color=0e75b6&style=flat" alt="abdulsalam24" /> </p>
