@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my project are on my portfolio https://abdulsalammoh.netlify.app
 
-- 💬 Ask me about anything **css , javascript , react**
+- 💬 Ask me about anything **Html ,css , javascript , react**
 
 - 📫 You can reach out to me via my email **abdulsalammohammed586686@gmail.com**
 
