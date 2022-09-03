@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I name is Mohammed Abdulsalam</h1>
+<h1 align="center">Hi 👋, My name is Mohammed Abdulsalam</h1>
 <h3 align="center">I am a Frontend Developer with 2-3 years of experience working with Html, Css, JavaScript and React.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulsalam24&label=Profile%20views&color=0e75b6&style=flat" alt="abdulsalam24" /> </p>
 
