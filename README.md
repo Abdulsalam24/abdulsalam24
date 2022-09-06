@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Abdulsalam Mohammed</h1>
-<h3 align="center">I am a Frontend web Developer with 2 years of experience working with Html, Css, JavaScript and React.</h3>
+<h3 align="center">I am a Frontend web Developer with 2 years of experience working with React, javaScript, Css, Html.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulsalam24&label=Profile%20views&color=0e75b6&style=flat" alt="abdulsalam24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulsalam24" alt="abdulsalam24" /></a> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning node.js **Node.js**
 
-- 👨‍💻 Some of my project are on my portfolio https://abdulsalammoh.netlify.app
+- 👨‍💻 Some of my project are on my portfolio [https://abdulsalammoh.netlify.app](https://abd-portfolio.vercel.app/)
 
 - 💬 Ask me about anything **Html ,css , javascript , react**
 
