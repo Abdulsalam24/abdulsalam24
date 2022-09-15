@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdoyobos" target="blank"><img src="https://img.shields.io/twitter/follow/abdoyobos?logo=twitter&style=for-the-badge" alt="abdoyobos" /></a> </p>
 
-- 🌱 I’m currently learning node.js **Node.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 Some of my project are on my portfolio [https://abdulsalammoh.netlify.app](https://abd-portfolio.vercel.app/)
 
