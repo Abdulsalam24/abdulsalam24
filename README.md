@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, My name is Abdulsalam Mohammed</h1>
-<h3 align="center">I am a Frontend Developer with 2-3 years of experience skilled with React.js, javaScript, CSS3 and HTML5.</h3>
+<h3 align="center">I am a Frontend Developer with 2-3 years of experience skilled with React.js, javaScript, css/scss and Html.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulsalam24&label=Profile%20views&color=0e75b6&style=flat" alt="abdulsalam24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulsalam24" alt="abdulsalam24" /></a> </p>
