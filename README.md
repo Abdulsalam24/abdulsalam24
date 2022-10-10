@@ -14,7 +14,7 @@
 
 - 📫 You can reach out to me via my email **abdulsalammohammed586686@gmail.com**
 
-  - ⚡ Fun fact **Practice makes perfect**
+  - ⚡ Fun fact **Practice make perfect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
