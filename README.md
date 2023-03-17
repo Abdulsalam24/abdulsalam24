@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 Some of my project are on my portfolio [https://abdulsalammoh.netlify.app](https://abd-portfolio.vercel.app](https://abdulsalammoh.netlify.app)
+- 👨‍💻 Some of my project are on my portfolio [https://abdulsalammoh.netlify.app]([https://abd-portfolio.vercel.app](https://abdulsalammoh.netlify.app])
 
 - 💬 Ask me about anything ** React.js | Next.js | Typescript | javascript | Html | Css **
 
