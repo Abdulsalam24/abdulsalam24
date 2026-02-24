@@ -6,7 +6,8 @@
   <title>LostLink — Lost & Found Tracker</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
 </head>
 <body>
 
@@ -47,25 +48,22 @@
 
   <!-- ===== HERO ===== -->
   <section class="hero" id="dashboard">
-    <div class="hero-bg">
-      <div class="hero-blob blob1"></div>
-      <div class="hero-blob blob2"></div>
-      <div class="hero-blob blob3"></div>
-    </div>
+    <div class="hero-bg"></div>
     <div class="hero-content">
       <div class="hero-badge">
         <span class="badge-dot"></span>
-        Live Community Tracker
+        Live · UNILORIN Campus
       </div>
+      <span class="hero-asterisk">✦</span>
       <h1 class="hero-title">
-        Reuniting People<br />
-        with Their <span class="highlight">Lost Items</span>
+        Where UNILORIN<br />
+        meets <span class="highlight">recovery.</span>
       </h1>
       <p class="hero-subtitle">
-        A smart, community-powered platform for UNILORIN students and staff to report, search, and recover lost and found items on campus.
+        A community platform for students and staff to report, search, and recover lost and found items across campus.
       </p>
       <div class="hero-actions">
-        <button class="btn-primary btn-lg" id="reportLostBtn">Report Lost Item</button>
+        <button class="btn-primary btn-lg" id="reportLostBtn">Report Lost Item ↗</button>
         <button class="btn-ghost btn-lg" id="reportFoundBtn">I Found Something</button>
       </div>
       <div class="hero-stats">
@@ -76,7 +74,7 @@
         <div class="stat-divider"></div>
         <div class="stat-item">
           <span class="stat-number" id="statResolved">0</span>
-          <span class="stat-label">Items Reunited</span>
+          <span class="stat-label">Reunited</span>
         </div>
         <div class="stat-divider"></div>
         <div class="stat-item">
@@ -188,23 +186,18 @@
       <div class="steps-grid">
         <div class="step-card">
           <div class="step-number">01</div>
-          <div class="step-icon">📝</div>
           <h3>Report the Item</h3>
-          <p>Submit a detailed report with photos, description, and the location where the item was lost or found.</p>
+          <p>Submit a detailed report with photos, description, and the location where the item was lost or found on campus.</p>
         </div>
-        <div class="step-connector"></div>
         <div class="step-card">
           <div class="step-number">02</div>
-          <div class="step-icon">🔍</div>
           <h3>Search & Match</h3>
-          <p>Our smart search helps match lost items with found reports using keywords, location, and categories.</p>
+          <p>Browse or search across all reports. Filter by category, type, or location to find a match quickly.</p>
         </div>
-        <div class="step-connector"></div>
         <div class="step-card">
           <div class="step-number">03</div>
-          <div class="step-icon">🤝</div>
           <h3>Reunite & Resolve</h3>
-          <p>Connect securely with the reporter, verify ownership, and mark the item as resolved once returned.</p>
+          <p>Contact the reporter directly, verify ownership, and mark the item resolved once it's returned.</p>
         </div>
       </div>
     </div>
