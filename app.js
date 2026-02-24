@@ -10,15 +10,15 @@ const SEED_ITEMS = [
     id: 'item_001',
     type: 'lost',
     category: 'electronics',
-    name: 'Black iPhone 14 Pro',
-    description: 'Black iPhone 14 Pro with a cracked screen protector. Has a dark blue MagSafe case with a small star sticker on the back. Lock screen shows a photo of a golden retriever.',
-    location: 'Central Park, Near Bethesda Fountain',
-    city: 'New York',
-    area: 'Midtown',
+    name: 'HP Laptop (Silver, 15")',
+    description: 'Lost a silver HP Pavilion 15-inch laptop during a CAT exam session. It was in a black sleeve with a UNILORIN Engineering sticker on the lid. Charger was also inside the bag.',
+    location: 'CBT Center, University of Ilorin',
+    city: 'Ilorin',
+    area: 'CBT Center',
     date: '2026-02-20',
-    contactName: 'James Carter',
-    contactEmail: 'james@example.com',
-    contactPhone: '+1 555-0101',
+    contactName: 'Abdulrahman Yusuf',
+    contactEmail: 'abdulrahman.y@unilorin.edu.ng',
+    contactPhone: '+234 803 000 1001',
     contactMethod: 'both',
     status: 'open',
     photo: null,
@@ -27,15 +27,15 @@ const SEED_ITEMS = [
   {
     id: 'item_002',
     type: 'found',
-    category: 'wallet',
-    name: 'Brown Leather Wallet',
-    description: 'Found a brown genuine leather bifold wallet near the subway exit. Contains several cards and some cash — not counted. No ID found inside, just loyalty cards.',
-    location: 'Times Square Subway Station, 42nd Street',
-    city: 'New York',
-    area: 'Midtown',
+    category: 'documents',
+    name: 'UNILORIN Student ID Card',
+    description: 'Found a UNILORIN student ID card on the ground near the library entrance. The card belongs to a 400-level Computer Science student. Please provide your matric number to claim.',
+    location: 'Main Library, University of Ilorin',
+    city: 'Ilorin',
+    area: 'Main Library',
     date: '2026-02-21',
-    contactName: 'Maria Lopez',
-    contactEmail: 'maria@example.com',
+    contactName: 'Fatimah Adebayo',
+    contactEmail: 'fatimah.a@unilorin.edu.ng',
     contactPhone: '',
     contactMethod: 'email',
     status: 'open',
@@ -46,15 +46,15 @@ const SEED_ITEMS = [
     id: 'item_003',
     type: 'lost',
     category: 'documents',
-    name: 'Passport & Travel Documents',
-    description: 'Lost a blue Nigerian passport along with a folder containing flight tickets and hotel bookings. The folder is green with a travel sticker on the cover.',
-    location: 'JFK International Airport, Terminal 4',
-    city: 'New York',
-    area: 'Queens',
+    name: 'Transcript & Result Slip',
+    description: 'Lost a sealed transcript envelope and 200L second semester result slip. Documents were inside a yellow envelope with my name written on it. Desperately needed for NYSC mobilisation.',
+    location: 'Exams & Records Office, UNILORIN',
+    city: 'Ilorin',
+    area: 'Exams & Records',
     date: '2026-02-18',
-    contactName: 'Abdulsalam Mohammed',
-    contactEmail: 'abdulsalammohammed586686@gmail.com',
-    contactPhone: '+1 555-0186',
+    contactName: 'Maryam Suleiman',
+    contactEmail: 'maryam.s@unilorin.edu.ng',
+    contactPhone: '+234 806 000 2002',
     contactMethod: 'both',
     status: 'open',
     photo: null,
@@ -64,14 +64,14 @@ const SEED_ITEMS = [
     id: 'item_004',
     type: 'found',
     category: 'accessories',
-    name: 'Blue Northface Backpack',
-    description: 'Found a medium-sized royal blue Northface backpack on a park bench. Contains what appears to be school/work supplies — notebooks, pens, and a water bottle. No laptop inside.',
-    location: 'Prospect Park, Main Entrance',
-    city: 'Brooklyn',
-    area: 'Park Slope',
+    name: 'Black JanSport Backpack',
+    description: 'Found a black JanSport backpack left on a seat in LT1 after lectures. Contains textbooks, a scientific calculator, notebooks, and a water bottle. No name tag inside.',
+    location: 'Lecture Theatre 1 (LT1), UNILORIN',
+    city: 'Ilorin',
+    area: 'LT1',
     date: '2026-02-22',
-    contactName: 'Sophie Green',
-    contactEmail: 'sophie@example.com',
+    contactName: 'Ibrahim Olawale',
+    contactEmail: 'ibrahim.o@unilorin.edu.ng',
     contactPhone: '',
     contactMethod: 'email',
     status: 'open',
@@ -82,15 +82,15 @@ const SEED_ITEMS = [
     id: 'item_005',
     type: 'lost',
     category: 'keys',
-    name: 'Key Set with Toyota Fob',
-    description: 'Lost a set of keys on a blue carabiner keychain. Includes a Toyota car key fob (black), two house keys, and a small USB drive with a red cap.',
-    location: 'Brooklyn Bridge Park',
-    city: 'Brooklyn',
-    area: 'DUMBO',
+    name: 'Hostel Room Key (Harmony Hall)',
+    description: 'Lost my Harmony Hall room key on a blue keychain with a small torch attached. The key has the room number "B-14" scratched on it. Lost somewhere between SUB and the hall gate.',
+    location: 'Student Union Building (SUB), UNILORIN',
+    city: 'Ilorin',
+    area: 'Student Union Building',
     date: '2026-02-19',
-    contactName: 'David Kim',
-    contactEmail: 'david@example.com',
-    contactPhone: '+1 555-0199',
+    contactName: 'David Okonkwo',
+    contactEmail: 'david.o@unilorin.edu.ng',
+    contactPhone: '+234 809 000 3003',
     contactMethod: 'phone',
     status: 'resolved',
     photo: null,
@@ -100,14 +100,14 @@ const SEED_ITEMS = [
     id: 'item_006',
     type: 'found',
     category: 'electronics',
-    name: 'AirPods Pro (2nd Gen)',
-    description: 'Found AirPods Pro 2nd generation in a white case near the coffee shop. The case has a small scratch on the lid. Please describe a unique identifier to claim.',
-    location: 'Blue Bottle Coffee, Williamsburg',
-    city: 'Brooklyn',
-    area: 'Williamsburg',
+    name: 'Infinix Hot 20 Phone',
+    description: 'Found an Infinix Hot 20 (black, 128GB) in the Faculty of Sciences car park. The phone has a cracked screen protector and a green silicone case. PIN-locked. Handed to Faculty Security.',
+    location: 'Faculty of Sciences, UNILORIN',
+    city: 'Ilorin',
+    area: 'Faculty of Sciences',
     date: '2026-02-23',
-    contactName: 'Priya Patel',
-    contactEmail: 'priya@example.com',
+    contactName: 'Aisha Balogun',
+    contactEmail: 'aisha.b@unilorin.edu.ng',
     contactPhone: '',
     contactMethod: 'email',
     status: 'open',
@@ -117,16 +117,16 @@ const SEED_ITEMS = [
   {
     id: 'item_007',
     type: 'lost',
-    category: 'jewelry',
-    name: 'Silver Charm Bracelet',
-    description: 'Sentimental silver charm bracelet with 7 charms including an Eiffel Tower, a heart, and a butterfly. Thin chain, toggle clasp. Lost at the museum gift shop.',
-    location: 'Metropolitan Museum of Art, Gift Shop',
-    city: 'New York',
-    area: 'Upper East Side',
+    category: 'clothing',
+    name: 'UNILORIN Engineering Hoodie',
+    description: 'Lost my green Department of Mechanical Engineering hoodie (size L) after a football match. The hoodie has "MECH ENG 2023" printed on the back and my nickname "D-Man" on the chest.',
+    location: 'Sports Complex, University of Ilorin',
+    city: 'Ilorin',
+    area: 'Sports Complex',
     date: '2026-02-17',
-    contactName: 'Emma Wilson',
-    contactEmail: 'emma@example.com',
-    contactPhone: '+1 555-0177',
+    contactName: 'Damilola Akinwumi',
+    contactEmail: 'damilola.a@unilorin.edu.ng',
+    contactPhone: '+234 811 000 4004',
     contactMethod: 'both',
     status: 'open',
     photo: null,
@@ -135,15 +135,15 @@ const SEED_ITEMS = [
   {
     id: 'item_008',
     type: 'found',
-    category: 'clothing',
-    name: 'Red Columbia Rain Jacket',
-    description: 'Found a red size Medium Columbia rain jacket hanging on a park bench. No name or contact info inside. Clean condition.',
-    location: 'Riverside Park, 79th Street',
-    city: 'New York',
-    area: 'Upper West Side',
+    category: 'wallet',
+    name: 'Brown Leather Wallet',
+    description: 'Found a brown bifold leather wallet near the FBSS cafeteria. Contains an ATM card, student ID, and some cash. No phone number inside. Please describe the exact cash amount to verify ownership.',
+    location: 'Faculty of Business & Social Sciences (FBSS), UNILORIN',
+    city: 'Ilorin',
+    area: 'FBSS',
     date: '2026-02-22',
-    contactName: 'Carlos Rivera',
-    contactEmail: 'carlos@example.com',
+    contactName: 'Chioma Eze',
+    contactEmail: 'chioma.e@unilorin.edu.ng',
     contactPhone: '',
     contactMethod: 'email',
     status: 'open',
@@ -153,16 +153,16 @@ const SEED_ITEMS = [
   {
     id: 'item_009',
     type: 'lost',
-    category: 'pets',
-    name: 'Orange Tabby Cat — "Mango"',
-    description: 'Missing orange tabby cat named Mango. Male, 3 years old, wearing a green collar with a bell. Very friendly. Last seen near the apartment building on 5th Ave.',
-    location: '5th Avenue, between 20th and 21st St',
-    city: 'New York',
-    area: 'Flatiron',
+    category: 'jewelry',
+    name: 'Gold Stud Earrings (Pair)',
+    description: 'Lost a pair of small gold stud earrings with a floral design inside Moremi Hall. They were in a small red pouch. Very sentimental — a gift from my mum before resumption.',
+    location: 'Moremi Hall, University of Ilorin',
+    city: 'Ilorin',
+    area: 'Moremi Hall',
     date: '2026-02-23',
-    contactName: 'Layla Hassan',
-    contactEmail: 'layla@example.com',
-    contactPhone: '+1 555-0155',
+    contactName: 'Zainab Mohammed',
+    contactEmail: 'zainab.m@unilorin.edu.ng',
+    contactPhone: '+234 802 000 5005',
     contactMethod: 'both',
     status: 'open',
     photo: null,
@@ -171,15 +171,15 @@ const SEED_ITEMS = [
   {
     id: 'item_010',
     type: 'found',
-    category: 'documents',
-    name: 'NY State Driver\'s License',
-    description: 'Found a New York State driver\'s license on the sidewalk near the train station. Name and address are visible. Contact me so I can return it privately.',
-    location: 'Penn Station, 8th Ave Exit',
-    city: 'New York',
-    area: 'Midtown West',
+    category: 'keys',
+    name: 'Bunch of Keys (7 keys)',
+    description: 'Found a bunch of 7 keys on a metallic keyring near the Engineering workshop entrance. Includes what appears to be a motorcycle key and several padlock keys. Left with the Faculty Security desk.',
+    location: 'Faculty of Engineering Workshops, UNILORIN',
+    city: 'Ilorin',
+    area: 'Faculty of Engineering',
     date: '2026-02-21',
-    contactName: 'Nathan Brooks',
-    contactEmail: 'nathan@example.com',
+    contactName: 'Samuel Adeyemi',
+    contactEmail: 'samuel.a@unilorin.edu.ng',
     contactPhone: '',
     contactMethod: 'email',
     status: 'resolved',
@@ -703,15 +703,42 @@ function initSearch() {
   });
 }
 
+function getActiveFilterCount() {
+  return Object.values(state.filters).filter(v => v !== 'all').length;
+}
+
+function updateFilterBadge() {
+  const count = getActiveFilterCount();
+  const badge = $('#filterActiveCount');
+  if (!badge) return;
+  if (count > 0) {
+    badge.textContent = count;
+    badge.style.display = 'flex';
+  } else {
+    badge.style.display = 'none';
+  }
+}
+
 function initFilters() {
   $$('.chip').forEach(chip => {
     chip.addEventListener('click', () => {
       const group = chip.closest('.filter-chips');
-      group.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
-      chip.classList.add('active');
       const filterKey = chip.dataset.filter;
-      state.filters[filterKey] = chip.dataset.value;
+      const isAlreadyActive = chip.classList.contains('active');
+
+      // Toggle: clicking active non-"all" chip resets to "all"
+      if (isAlreadyActive && chip.dataset.value !== 'all') {
+        group.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+        group.querySelector('[data-value="all"]').classList.add('active');
+        state.filters[filterKey] = 'all';
+      } else {
+        group.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        state.filters[filterKey] = chip.dataset.value;
+      }
+
       state.page = 1;
+      updateFilterBadge();
       renderItems();
     });
   });
@@ -721,6 +748,17 @@ function initFilters() {
     state.page = 1;
     renderItems();
   });
+
+  // Filter panel toggle
+  const filterToggleBtn = $('#filterToggleBtn');
+  const filterBar = $('#filterBar');
+  if (filterToggleBtn && filterBar) {
+    filterToggleBtn.addEventListener('click', () => {
+      const isOpen = filterBar.classList.toggle('open');
+      filterToggleBtn.setAttribute('aria-expanded', isOpen);
+      filterToggleBtn.querySelector('.filter-toggle-icon').textContent = isOpen ? '✕' : '⚙';
+    });
+  }
 }
 
 function initViewToggle() {

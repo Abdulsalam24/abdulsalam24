@@ -62,7 +62,7 @@
         with Their <span class="highlight">Lost Items</span>
       </h1>
       <p class="hero-subtitle">
-        A smart, community-powered platform to report, search, and recover lost and found items across your area.
+        A smart, community-powered platform for UNILORIN students and staff to report, search, and recover lost and found items on campus.
       </p>
       <div class="hero-actions">
         <button class="btn-primary btn-lg" id="reportLostBtn">Report Lost Item</button>
@@ -101,10 +101,15 @@
           />
           <button class="search-clear" id="searchClear" aria-label="Clear">✕</button>
         </div>
+        <button class="filter-toggle-btn" id="filterToggleBtn" aria-expanded="false" aria-controls="filterBar">
+          <span class="filter-toggle-icon">⚙</span>
+          Filters
+          <span class="filter-active-count" id="filterActiveCount" style="display:none;">0</span>
+        </button>
         <button class="btn-primary" id="searchBtn">Search</button>
       </div>
 
-      <div class="filter-bar">
+      <div class="filter-bar" id="filterBar">
         <div class="filter-group">
           <label class="filter-label">Type</label>
           <div class="filter-chips">
@@ -121,7 +126,9 @@
             <button class="chip" data-filter="category" data-value="documents">Documents</button>
             <button class="chip" data-filter="category" data-value="clothing">Clothing</button>
             <button class="chip" data-filter="category" data-value="accessories">Accessories</button>
-            <button class="chip" data-filter="category" data-value="pets">Pets</button>
+            <button class="chip" data-filter="category" data-value="keys">Keys</button>
+            <button class="chip" data-filter="category" data-value="wallet">Wallet</button>
+            <button class="chip" data-filter="category" data-value="jewelry">Jewelry</button>
             <button class="chip" data-filter="category" data-value="other">Other</button>
           </div>
         </div>
